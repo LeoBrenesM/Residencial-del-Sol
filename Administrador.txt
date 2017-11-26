@@ -1,0 +1,4 @@
+Recoger cuotas del Dia:  
+Hora: 
+Año: .
+---

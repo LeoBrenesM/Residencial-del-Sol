@@ -1,0 +1,77 @@
+117250489
+Leonardo
+Brenes Munnoz
+Masculino
+18
+550000
+0
+702410216
+Farat
+Pinel Arias
+Femenino
+21
+550000
+0
+114240022
+Maria
+Reyes Castro
+Femenino
+30
+550000
+1
+120233345
+Carlos
+Murillo Lopez
+Masculino
+25
+550000
+1
+114046625
+Raul
+Castro Gomez
+Masculino
+40
+550000
+0
+128560412
+Camila
+Romero Zamora
+Femenino
+18
+550000
+0
+120200458
+Marta
+Reyes Carazo
+Femenino
+32
+550000
+1
+202342578
+Gabriela
+Plaza Orellana
+Femenino
+18
+550000
+1
+450523845
+Sebastian
+Ramirez Torres
+Masculino
+18
+550000
+1
+14055568
+Nidia
+Barrantes Jimenez
+Femenino
+58
+550000
+0
+355725467
+Juan
+Vargas Ramirez
+Masculino
+52
+550000
+1

@@ -1,0 +1,8 @@
+Personas
+Nombre: Leonardo
+Apellido de Persona: Brenes
+Dia de Persona: 17
+Hora de Persona: 2pm
+Año de Persona: 2017
+Placa de Vehiculo: ABC123
+Dia  Vehiculo: ---
